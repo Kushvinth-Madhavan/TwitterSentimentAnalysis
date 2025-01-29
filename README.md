@@ -17,6 +17,7 @@ twitter-sentiment-analysis/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
+├── LICENCE
 ├── src/
 │   ├── __init__.py
 │   ├── config.py
